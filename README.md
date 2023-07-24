@@ -2,6 +2,11 @@
 
 > Regardless of the past, do not ask the future.
 
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zxxj&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxxj&layout=compact&theme=tokyonight" />
+</div>
+
 - 🧑🏻‍💻 Front-end Engineer
 
 #### ☎️ Find me
@@ -37,8 +42,3 @@
   </div>
 <!-- END_SECTION:blog -->
 </details>
-
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zxxj&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxxj&layout=compact&theme=tokyonight" />
-</div>
