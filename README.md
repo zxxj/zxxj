@@ -26,11 +26,13 @@
 
 
 #### 📃 Recent Blog
+<details>
 <!-- START_SECTION:blog -->
 * <a href='https://juejin.cn/post/7257441221772525629' target='_blank'>01_Reactjs-Learn(React初体验)</a> - 2023-07-19
 * <a href='https://juejin.cn/post/7257789435033518136' target='_blank'>02_Reactjs-Learn(JSX基本语法)</a> - 2023-07-20
 <!-- END_SECTION:blog -->
 <!-- ## 🍁 &nbsp;My Stats
+</details>
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zyyv&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
