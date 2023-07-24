@@ -39,6 +39,12 @@
 <!-- ## 🍁 &nbsp;My Stats
 </details>
 
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zyyv&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyyv&layout=compact&theme=tokyonight" />
+</div>
+
+#### 123
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
@@ -56,8 +62,4 @@
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zyyv&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyyv&layout=compact&theme=tokyonight" />
-</div>
 -->
