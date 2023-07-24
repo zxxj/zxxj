@@ -1,4 +1,4 @@
-### 👋 &nbsp;Hi there, I'm xin
+### 👋 &nbsp;Hi there, I really like javascript, I am studying him very hard ~
 
 > Regardless of the past, do not ask the future.
 
@@ -36,7 +36,6 @@
  <a href='https://juejin.cn/post/7257789435033518136' target='_blank'>02_Reactjs-Learn(JSX基本语法)</a> - 2023-07-20
   </div>
 <!-- END_SECTION:blog -->
-<!-- ## 🍁 &nbsp;My Stats
 </details>
 
 <div>
