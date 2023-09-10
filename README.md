@@ -1,6 +1,6 @@
 ### 👋 &nbsp;Hi there, I really like javascript, I am studying him very hard ~
 
-> Regardless of the past, do not ask the future.
+> 每天进步一点点,一年后我该会有多大的飞跃啊.
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zxxj&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
@@ -12,20 +12,19 @@
 #### ☎️ Find me
 
 - <img height="10" src="https://api.iconify.design/fxemoji:email.svg">  [Email]()
-- <img height="10" src="https://api.iconify.design/logos:twitter.svg"> [Twitter]()
 - <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website]()
 
 
 #### 🛠 Tech Stack
 
-<code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:nuxt-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:nuxt-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
 
