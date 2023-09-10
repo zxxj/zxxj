@@ -7,22 +7,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxxj&layout=compact&theme=tokyonight" />
 </div>
 
-- 🧑🏻‍💻 Front-end Engineer
-
-#### ☎️ Find me
-
-- <img height="10" src="https://api.iconify.design/fxemoji:email.svg">  [Email]()
-- <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website]()
-
-
 #### 🛠 Tech Stack
 
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:nuxt-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
@@ -31,7 +23,7 @@
 
 #### 📃 Recent Blog
 <details>
-  <summary>🍁 &nbsp; Blogs</summary>
+  <summary>🍁 &nbsp; Articles</summary>
 <!-- START_SECTION:blog -->
  <div>
   <a href='https://juejin.cn/post/7257441221772525629' target='_blank'>01_Reactjs-Learn(React初体验)</a> - 2023-07-19
