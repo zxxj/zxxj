@@ -16,5 +16,5 @@
 <code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
 
-#### my blog
-[](https://zxxj.github.io/vitepressBlog/)
+#### My Learning Blog
+[博客](https://zxxj.github.io/vitepressBlog/)
