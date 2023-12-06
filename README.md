@@ -1,6 +1,6 @@
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=zxxj&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxxj&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zxxj&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxxj&layout=compact&theme=tokyonight" />
 </div>
 
 #### 🛠 Tech Stack
