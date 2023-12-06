@@ -1,10 +1,6 @@
-### 👋 &nbsp;Hi there, I really like javascript, I am studying him very hard ~
-
-> 每天进步一点点,一年后我该会有多大的飞跃啊.
-
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zxxj&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxxj&layout=compact&theme=tokyonight" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=zxxj&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxxj&layout=compact&theme=tokyonight" />
 </div>
 
 #### 🛠 Tech Stack
@@ -19,17 +15,3 @@
 <code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
-
-
-#### 📃 Recent Blog
-<details>
-  <summary>🍁 &nbsp; Articles</summary>
-<!-- START_SECTION:blog -->
- <div>
-  <a href='https://juejin.cn/post/7257441221772525629' target='_blank'>01_Reactjs-Learn(React初体验)</a> - 2023-07-19
-</div>
-  <div>
- <a href='https://juejin.cn/post/7257789435033518136' target='_blank'>02_Reactjs-Learn(JSX基本语法)</a> - 2023-07-20
-  </div>
-<!-- END_SECTION:blog -->
-</details>
