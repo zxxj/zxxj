@@ -5,8 +5,8 @@
 
 #### 🛠 Tech Stack
 
-<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
