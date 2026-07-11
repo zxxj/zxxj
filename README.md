@@ -13,7 +13,6 @@
 <code><img height="20" src="https://api.iconify.design/skill-icons/redis-light.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/skill-icons/vite-light.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/skill-icons/pnpm-light.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/skill-icons/npm-light.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/skill-icons/docker.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/skill-icons/git.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/skill-icons/vscode-light.svg"></code>&nbsp;
